@@ -1,0 +1,47 @@
+MIME-Version: 1.0
+Date: Fri, 27 Dec 2024 20:24:31 -0500
+Message-ID: <CAOTOGG9623y8WRjX_d1q3he5G_wS0n=8zz_5yWhwHD34-KKSew@mail.gmail.com>
+Subject: Case 1
+From: Martin Murriagui <murriaguimartin@gmail.com>
+To: Martin Murriagui <murriaguimartin@gmail.com>
+Content-Type: multipart/mixed; boundary="000000000000ff3a15062a4a7045"
+
+--000000000000ff3a15062a4a7045
+Content-Type: multipart/alternative; boundary="000000000000ff3a13062a4a7043"
+
+--000000000000ff3a13062a4a7043
+Content-Type: text/plain; charset="UTF-8"
+
+Json as an attachment file
+
+--000000000000ff3a13062a4a7043
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">Json as an attachment file<div><br></div></div>
+
+--000000000000ff3a13062a4a7043--
+--000000000000ff3a15062a4a7045
+Content-Type: application/json; name="activemq-event.json"
+Content-Disposition: attachment; filename="activemq-event.json"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_m57i0xwk0
+Content-ID: <f_m57i0xwk0>
+
+ewogICAgImV2ZW50U291cmNlIjogImF3czptcSIsCiAgICAiZXZlbnRTb3VyY2VBcm4iOiAiYXJu
+OmF3czptcTp1cy13ZXN0LTI6NTMzMDE5NDEzMzk3OmJyb2tlcjpzaGFzay10ZXN0OmItMGY1Yjc1
+MjItMmI0MS00Zjg1LWE2MTUtNzM1YTRlNmQ5NmI1IiwKICAgICJtZXNzYWdlcyI6IFsKICAgICAg
+ICB7CiAgICAgICAgICAgICJtZXNzYWdlSUQiOiAiSUQ6Yi0wZjViNzUyMi0yYjQxLTRmODUtYTYx
+NS03MzVhNGU2ZDk2YjUtMi5tcS51cy13ZXN0LTIuYW1hem9uYXdzLmNvbS0zNDg1OS0xNTk4OTQ0
+NTQ2NTAxLTQ6MTI6MToxOjMiLAogICAgICAgICAgICAibWVzc2FnZVR5cGUiOiAiam1zL3RleHQt
+bWVzc2FnZSIsCiAgICAgICAgICAgICJ0aW1lc3RhbXAiOiAxNTk5ODYzOTM4OTQxLAogICAgICAg
+ICAgICAiZGVsaXZlcnlNb2RlIjogMSwKICAgICAgICAgICAgImNvcnJlbGF0aW9uSUQiOiAiIiwK
+ICAgICAgICAgICAgInJlcGx5VG8iOiAibnVsbCIsCiAgICAgICAgICAgICJkZXN0aW5hdGlvbiI6
+IHsKICAgICAgICAgICAgICAgICJwaHlzaWNhbE5hbWUiOiAidGVzdFF1ZXVlIgogICAgICAgICAg
+ICB9LAogICAgICAgICAgICAicmVkZWxpdmVyZWQiOiBmYWxzZSwKICAgICAgICAgICAgInR5cGUi
+OiAiIiwKICAgICAgICAgICAgImV4cGlyYXRpb24iOiAwLAogICAgICAgICAgICAicHJpb3JpdHki
+OiAwLAogICAgICAgICAgICAiZGF0YSI6ICJSVzUwWlhJZ2MyOXRaU0IwWlhoMElHaGxjbVVnWm05
+eUlIUm9aU0J0WlhOellXZGxJR0p2WkhrdUxpND0iLAogICAgICAgICAgICAiYnJva2VySW5UaW1l
+IjogMTU5OTg2MzkzODk0MywKICAgICAgICAgICAgImJyb2tlck91dFRpbWUiOiAxNTk5ODYzOTM4
+OTQ0LAogICAgICAgICAgICAicHJvcGVydGllcyI6IHsidGVzdEtleSI6ICJ0ZXN0VmFsdWUifQog
+ICAgICAgIH0KICAgIF0KfQ==
+--000000000000ff3a15062a4a7045--

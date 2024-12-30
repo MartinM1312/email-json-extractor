@@ -1,10 +1,6 @@
 class EmailsController < ApplicationController
   skip_before_action :verify_authenticity_token
 
-  def parse_form
-    # Renders a simple form for user input
-  end
-
   # POST /emails/parse
   def parse
     email_source = params[:email_source]

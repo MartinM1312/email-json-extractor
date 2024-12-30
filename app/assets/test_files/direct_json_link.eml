@@ -1,0 +1,24 @@
+MIME-Version: 1.0
+Date: Fri, 27 Dec 2024 20:26:33 -0500
+Message-ID: <CAOTOGG-2PMgesL_9Cq4EtWO-j5XCvuja_Ozhva50hFC2MQQ0+g@mail.gmail.com>
+Subject: Case 2
+From: Martin Murriagui <murriaguimartin@gmail.com>
+To: Martin Murriagui <murriaguimartin@gmail.com>
+Content-Type: multipart/alternative; boundary="000000000000392ac9062a4a7808"
+
+--000000000000392ac9062a4a7808
+Content-Type: text/plain; charset="UTF-8"
+
+Json as a link on the email body
+https://raw.githubusercontent.com/aws/aws-lambda-go/refs/heads/main/events/testdata/activemq-event.json
+
+--000000000000392ac9062a4a7808
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Json as a link on the email body<br><a href=3D"https://raw=
+.githubusercontent.com/aws/aws-lambda-go/refs/heads/main/events/testdata/ac=
+tivemq-event.json">https://raw.githubusercontent.com/aws/aws-lambda-go/refs=
+/heads/main/events/testdata/activemq-event.json</a></div>
+
+--000000000000392ac9062a4a7808--
